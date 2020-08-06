@@ -17,6 +17,6 @@ Route::get('/', function () {
 });
 */
 
-Route:: get('/','HomeController@home');
-Route:: get('/register','AuthController@register');
-Route:: post('/welcome','AuthController@welcome');
+Route:: get('/','Controller@home');
+Route:: get('/register','Controller@register');
+Route:: post('/welcome','Controller@welcome');

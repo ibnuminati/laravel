@@ -40,7 +40,7 @@
 	<label>Bio:</label>
 	 <br><br>
 	  <textarea cols="30" rows="7"></textarea>
-
+<br>
 	  <button type="submit">Sign Up</button>
   </form>
 </body>
